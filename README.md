@@ -1,3 +1,12 @@
+---
+license: apache-2.0
+title: Search Engine
+sdk: streamlit
+emoji: 🏃
+colorFrom: red
+colorTo: yellow
+short_description: Search Engine With LLM
+---
 # 🤖 NileAI - Smart AI Chat
 Welcome to NileQuest, an interactive AI-powered chat agent designed to provide real-time web search and insights. This application uses LangChain and Streamlit to deliver a seamless and intelligent search experience.
 
