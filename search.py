@@ -30,7 +30,7 @@ Explore more LangChain 🧠 Streamlit Agent examples at [github.com/langchain-ai
 # st.sidebar.title("Settings")
 # api_key = st.sidebar.text_input("Enter your Groq API key:", type="password")
 
-api_key="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"
+api_key="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"
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = [
